@@ -1,0 +1,4 @@
+#!/bin/bash
+
+clear
+mysql -u cs340_jonesjon -p -h classmysql.engr.oregonstate.edu cs340_jonesjon
